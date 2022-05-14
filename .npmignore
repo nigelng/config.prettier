@@ -1,0 +1,6 @@
+*-prettier-config*.tgz
+.babelrc
+.editorconfig
+.envrc
+.yarnrc.yml
+shell.nix

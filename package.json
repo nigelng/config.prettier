@@ -1,0 +1,24 @@
+{
+  "name": "@nigelng/prettier-config",
+  "version": "1.0.0",
+  "author": "Nigel Nguyen <nigel@nng.me>",
+  "license": "MIT",
+  "files": [
+    "index.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nigelng/prettier-config.git"
+  },
+  "main": "index.json",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "engines": {
+    "node": ">= 16"
+  },
+  "peerDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
